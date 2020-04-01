@@ -1,0 +1,15 @@
+﻿  server.cpp
+c:\users\abhav\desktop\networks coursework\source\net\server.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\abhav\desktop\networks coursework\source\net\server.cpp(80): warning C4101: 'bhole': unreferenced local variable
+c:\users\abhav\desktop\networks coursework\source\net\server.cpp(78): warning C4101: 'lost': unreferenced local variable
+  Ball.cpp
+c:\users\abhav\desktop\networks coursework\source\net\src\ball.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Cane.cpp
+c:\users\abhav\desktop\networks coursework\source\net\src\cane.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Hole.cpp
+c:\users\abhav\desktop\networks coursework\source\net\src\hole.cpp(7): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\abhav\desktop\networks coursework\source\net\src\hole.cpp(9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Text.cpp
+  VectorMath.cpp
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
